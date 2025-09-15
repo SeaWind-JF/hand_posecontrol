@@ -10,6 +10,6 @@ pip install mediapipe -i https://pypi.tuna.tsinghua.edu.cn/simple
 建议将该文件夹与cyberdog_sim放在同一文件夹下  
 
 ## 运行方式
-1.打开虚拟机摄像头  
+1.打开虚拟机摄像头    
 2.在cyberdog_sim下运行虚拟平台：python3 src/cyberdog_simulator/cyberdog_gazebo/script/launchsim.py  
 3.在hand_posecontrol中运行posecontrol_test.py：python3 posecontrol_test.py  
